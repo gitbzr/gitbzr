@@ -1,5 +1,5 @@
-# GitCake - A piece of GitCake
+# GitBzr - Git bazaar, Open bazaar
 
-[![Build Status](https://travis-ci.org/hutusi/gitcake.svg?branch=master)](https://travis-ci.org/hutusi/gitcake)
-[![Code Climate](https://codeclimate.com/github/hutusi/gitcake/badges/gpa.svg)](https://codeclimate.com/github/hutusi/gitcake)
-[![Test Coverage](https://codeclimate.com/github/hutusi/gitcake/badges/coverage.svg)](https://codeclimate.com/github/hutusi/gitcake/coverage)
+[![Build Status](https://travis-ci.org/gitbzr/gitbzr.svg?branch=master)](https://travis-ci.org/gitbzr/gitbzr)
+[![Code Climate](https://codeclimate.com/github/gitbzr/gitbzr/badges/gpa.svg)](https://codeclimate.com/github/gitbzr/gitbzr)
+[![Test Coverage](https://codeclimate.com/github/gitbzr/gitbzr/badges/coverage.svg)](https://codeclimate.com/github/gitbzr/gitbzr/coverage)
